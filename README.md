@@ -10,7 +10,7 @@ Simply run
 `yarn build`
 
 in some cases you may need to use `sudo` to run as administrator. 
-If you've downloaded this code and run `yarn build` it shall build itself according to the operating system you are using. So in my case I was using linux. If you want to run it on a MacOS then run the command on a mac computer and itshall build a MacOS version and vice versa for Windows. 
+If you've downloaded this code and run `yarn build` it shall build itself according to the operating system you are using and would create a `dist` folder where the app would be located. So in my case I was using Ubuntu Budgie Linux OS. If you want to run it on a MacOS then run the command on a mac computer and it shall build a MacOS version and vice versa for Windows. 
 
 You need install `Electron-icon-builder` inorder for you to have icons that would work with this app however, I learnt that it doesn't work on linux and works on the other two OS for some reason. Thats why I was unable to add the icons however you can add them later on yourself under asset icon. 
 
