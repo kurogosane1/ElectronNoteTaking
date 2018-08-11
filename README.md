@@ -1,4 +1,6 @@
 # Note Taking Markdown App
+ ![](https://i.imgur.com/1NyVyUm.png)
+ 
 
 This app was made with the purpose of seeing if React and ElectronJS was possible to work with. 
 This was simply a personal practice to see the things that were possible with ReactJS and ElectronJS. 
