@@ -30,7 +30,7 @@
     "electron": "electron ."
   },
   "devDependencies": {
-    "electron": "^2.0.8",
+    "electron": "^18.3.7",
     "electron-builder": "^20.27.1",
     "electron-icon-maker": "0.0.4"
   }
