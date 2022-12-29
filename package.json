@@ -13,7 +13,7 @@
     "react": "^16.4.2",
     "react-ace": "^6.1.4",
     "react-dom": "^16.4.2",
-    "react-scripts": "1.1.4",
+    "react-scripts": "5.0.1",
     "styled-components": "^3.4.2"
   },
   "homepage": "./",
@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "electron": "^2.0.8",
-    "electron-builder": "^20.27.1",
+    "electron-builder": "^20.44.4",
     "electron-icon-maker": "0.0.4"
   }
 }
